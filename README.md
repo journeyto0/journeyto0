@@ -4,7 +4,7 @@
 
 ### Computer Science Student | Full-Stack Developer in Progress
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=600&lines=Building+real+projects+to+learn;Frontend+first%2C+full-stack+next;Improving+UI%2C+JavaScript+and+architecture;Learning+React%2C+Node+and+MongoDB;Welcome+to+my+coding+journey!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=600&lines=Building+real+projects+to+learn;Frontend+first%2C+full-stack+next;Improving+UI%2C+JavaScript+and+architecture;Learning+React%2C+Node+and+MongoDB;Welcome+to+my+coding+journey!)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=journeyto0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -96,22 +96,19 @@ I'm a passionate Computer Science student who believes in **learning by doing**.
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/>
-<br />
+<h3>💻</h3>
 <strong>Learning Projects</strong>
 <br />
 <sub>UI experiments, small apps, and coding challenges</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/web.png" width="50"/>
-<br />
+<h3>🌐</h3>
 <strong>Frontend Clones</strong>
 <br />
 <sub>Interface recreations and responsive designs</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/database.png" width="50"/>
-<br />
+<h3>🗄️</h3>
 <strong>Full-Stack Apps</strong>
 <br />
 <sub>SpendWise/Xpense and other MERN projects</sub>
@@ -175,6 +172,8 @@ mindmap
 ## 📫 Connect With Me
 
 <div align="center">
+
+<!-- Replace the placeholder links below with your actual social media profiles -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
