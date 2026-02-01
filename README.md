@@ -38,6 +38,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=journeyto0&label=Visitors&color=181717&style=flat"> </p>
 
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=journeyto0&show_icons=true&theme=default&hide_border=true&count_private=true&hide=stars" height="150" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=journeyto0&theme=default&hide_border=true" height="150" alt="GitHub Streak">
+</p>
+
+### 🏆 Achievements
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=journeyto0&theme=flat&no-frame=true&margin-w=10&column=4&rank=-C,-B" alt="GitHub Trophies">
+</p>
+
+---
+
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/journeyto0/journeyto0/output/snake.svg">
