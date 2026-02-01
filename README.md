@@ -69,13 +69,13 @@ I'm a passionate Computer Science student who believes in **learning by doing**.
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=journeyto0&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=journeyto0&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" /> -->
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=journeyto0&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=journeyto0&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=journeyto0&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
@@ -83,13 +83,13 @@ I'm a passionate Computer Science student who believes in **learning by doing**.
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
-<div align="center">
+ <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=journeyto0&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
----
+--- -->
 
 ## 📌 What You'll Find Here
 
