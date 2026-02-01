@@ -78,7 +78,7 @@ I'm a passionate Computer Science student who believes in **learning by doing**.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=journeyto0&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=journeyto0&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -173,12 +173,16 @@ mindmap
 
 <div align="center">
 
-<!-- Replace the placeholder links below with your actual social media profiles -->
+> [!NOTE]  
+> 📝 Social media links coming soon! Feel free to star this repository or check back later for updates.
 
+<!--
+Placeholder social links - Update these with your actual profiles:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+-->
 
 </div>
 
