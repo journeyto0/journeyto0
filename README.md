@@ -40,7 +40,7 @@ it’s a record of how I’m growing as a developer.
 
 **Tools & workflow**  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
